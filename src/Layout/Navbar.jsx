@@ -11,7 +11,7 @@ const Navbar = () => {
 
           <div className="space-x-4">
             <a href="index.html" className="text-white hover:underline">
-              Home
+              Appointment
             </a>
             <a href="gallery.html" className="text-white hover:underline">
               Gallery

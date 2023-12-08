@@ -1,13 +1,9 @@
-import Appointment from "./Components/Appointment";
-import Navbar from "./Layout/Navbar";
+import React from 'react'
 
-function App() {
+const App = () => {
   return (
-    <>
-      <Navbar />
-      <Appointment />
-    </>
-  );
+    <div>App</div>
+  )
 }
 
-export default App;
+export default App
