@@ -12,7 +12,8 @@ const Images = () => {
       try {
         const response = await axios.get(API);
         const images = response.data;
-        console.log(images);
+        // console.log(images);
+        // console.log(images);
 
         setImages(images);
       } catch (error) {
